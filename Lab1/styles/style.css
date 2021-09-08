@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+header {
+    background-color: black;
+    color: white;
+}
+
+header a{
+    color: white;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 75%;
+    margin: 0 auto;
+}
+
+.main-menu{
+    font-size: 1em;
+    font-weight: bold;
+    padding: 20px 0;
+}
+
+.btn{
+    text-decoration: none;
+    color: violet;
+    font-weight: bold;
+    border: tomato;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    transition: color 0.5s, border-color 0.5s;
+    color: teal;
+    border-color: yellow;
+}
+
+.avatar{
+    height: 350px;
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.avatar img{
+    height: 100%;
+}
+
+.text-right{
+    text-align: right;
+   
+}
+
+p{
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 40px 0;
+    margin-top: 2rem;
+}
