@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+
+.form-group{
+    margin-top: 5px;
+    width: 50%;
+}
+
+.form-label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.btn{
+    display: block;
+    border: 2px solid blue;
+    background-color: lightblue;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    margin: 0 auto;
+}
